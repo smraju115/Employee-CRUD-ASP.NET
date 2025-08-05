@@ -55,7 +55,7 @@ nunit-*.xml
 
 
 #SqlQuery
-*/EmployeeManagementAllOperation_SP.sql
+/EmployeeManagementAllOperation_SP.sql
 
 
 
