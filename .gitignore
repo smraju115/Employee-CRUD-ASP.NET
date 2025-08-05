@@ -54,7 +54,7 @@ TestResult.xml
 nunit-*.xml
 
 
-#SqlQuery
+# SqlQuery
 EmployeeManagementAllOperation_SP.sql
 
 
